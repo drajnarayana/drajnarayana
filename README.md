@@ -21,8 +21,6 @@
 <!-- ![StyledComponents_Badge](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) -->
 
 
-
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=drajnarayana&show_icons=true)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=drajnarayana)
