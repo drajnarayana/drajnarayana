@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Hello. I'm Rajnarayana!
+# Hello, I'm Rajnarayana!
 
 <ul>
   
