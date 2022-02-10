@@ -2,7 +2,7 @@
 # Hello, I'm Rajnarayana <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 
 <div size='20px'>
- An passionate full-stack developer with a specialization in MERN stack. Self motivated and eager to work in tech-based companies. Love to learn new skills and contribute to community.
+ An passionate full-stack developer with a specialization in MERN stack. Self motivated and eager to work in tech-based companies. Love to learn new skills and contribute to the community.
 </div>
 
 <!-- - 🎯 Full Stack Web Developer -->
