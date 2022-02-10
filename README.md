@@ -1,9 +1,15 @@
 
-# Hello, I'm Rajnarayana!
+# Hello, I'm Rajnarayana <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 
+<div size='20px'>
+ An passionate full-stack developer with a specialization in MERN stack. Self motivated and eager to work in tech-based companies. Love to learn new skills and contribute to community.
+</div>
 
 <!-- - 🎯 Full Stack Web Developer -->
+<br>
+
 - 🌱 Learning the **MERN Stack** and **Data Structures & Algorithms** at **Masai School**
+-  💬 Talk to me about Javascript , React , Algorithms 
 <hr/>
 
 <!-- ### Languages
@@ -52,7 +58,9 @@
 
 
 ### Contact Me
+
+
+<a href="https://www.linkedin.com/in/rajnarayana-dasari-63b245118/"><img  height="50px" width="50px" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
 <a href="https://codesandbox.io/u/drajnarayana"><img height="50px" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg"/></a>
- <a href="https://www.linkedin.com/in/rajnarayana-dasari-63b245118/"><img  height="50px" width="50px" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
- <a href="https://medium.com/@drajnaryana"><img  height="50px" width="50px" src="https://play-lh.googleusercontent.com/hB9t3Z-mi284_49HA3nAuhO-W5Cyhje7r2P9McdgORoVCd-0SV54c12NMQWLHnqALw" alt="medium"/></a>
+<a href="https://medium.com/@drajnaryana"><img  height="50px" width="50px" src="https://play-lh.googleusercontent.com/hB9t3Z-mi284_49HA3nAuhO-W5Cyhje7r2P9McdgORoVCd-0SV54c12NMQWLHnqALw" alt="medium"/></a>
 
