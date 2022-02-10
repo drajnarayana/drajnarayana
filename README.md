@@ -57,7 +57,7 @@
 
 
 
-### Contact Me
+<h2> Connect with me  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h2>
 
 
 <a href="https://www.linkedin.com/in/rajnarayana-dasari-63b245118/"><img  height="50px" width="50px" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
