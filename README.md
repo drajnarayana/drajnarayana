@@ -50,7 +50,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=drajnarayana&show_icons=true)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=drajnarayana)
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=drajnarayana) -->
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=drajnarayana)
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drajnarayana&layout=compact&theme=vue&hide_border=true" />
 
 
