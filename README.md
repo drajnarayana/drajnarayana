@@ -62,5 +62,5 @@
 
 <a href="https://www.linkedin.com/in/rajnarayana-dasari-63b245118/"><img  height="50px" width="50px" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
 <a href="https://codesandbox.io/u/drajnarayana"><img height="50px" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg"/></a>
-<a href="https://medium.com/@drajnaryana"><img  height="50px" width="50px" src="https://play-lh.googleusercontent.com/hB9t3Z-mi284_49HA3nAuhO-W5Cyhje7r2P9McdgORoVCd-0SV54c12NMQWLHnqALw" alt="medium"/></a>
+<a href="https://medium.com/@drajnarayana"><img  height="50px" width="50px" src="https://play-lh.googleusercontent.com/hB9t3Z-mi284_49HA3nAuhO-W5Cyhje7r2P9McdgORoVCd-0SV54c12NMQWLHnqALw" alt="medium"/></a>
 
