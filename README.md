@@ -47,6 +47,8 @@
 <a href= https://github.com/drajnarayana?tab=repositories&q=&type=&language=bootstrap&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
 <a href= https://github.com/drajnarayana?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <a href= https://github.com/drajnarayana?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
+<a href= https://github.com/drajnarayana?tab=repositories&q=&type=&language=css&sort= > <img height="32px" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/npm.svg'> </a>
+<a href= https://github.com/drajnarayana?tab=repositories&q=&type=&language=css&sort= > <img height="35px" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=drajnarayana&show_icons=true)
 
