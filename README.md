@@ -1,9 +1,20 @@
 
-# Hello, I'm Rajnarayana <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
+  
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> , I'm Rajnarayana Dasari</h1>
+<p align='center'> </h1>
+<p align="center">
+<a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=d25f2c&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+web+developer." /></a>
+</p>
 
-<div size='20px'>
+<div align="center" size='20px'>
+ <h3>
  An passionate full-stack developer with a specialization in MERN stack. Self motivated and eager to work in tech-based companies. Love to learn new skills and contribute to the community.
+ </h3>
 </div>
+
+<h3 align="center" text-decoration="none"><a href="https://rajnarayana.netlify.app/" target="_blank" rel="noopener noreferrer" >
+    Visit my website
+</a></h3>
 
 <!-- - 🎯 Full Stack Web Developer -->
 <br>
@@ -36,8 +47,8 @@
 <!-- ![Redis_Badge](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white) -->
 <!-- ![TailwindCSS_Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) -->
 <!-- ![StyledComponents_Badge](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) -->
-
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<div align="center">
+<h2 > Skills & Frameworks <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/drajnarayana?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
 <a href= https://github.com/drajnarayana?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= https://github.com/drajnarayana?tab=repositories&q=&type=&language=mongodb&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
@@ -67,3 +78,4 @@
 <a href="https://codesandbox.io/u/drajnarayana"><img height="50px" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg"/></a>
 <a href="https://medium.com/@drajnarayana"><img  height="50px" width="50px" src="https://play-lh.googleusercontent.com/hB9t3Z-mi284_49HA3nAuhO-W5Cyhje7r2P9McdgORoVCd-0SV54c12NMQWLHnqALw" alt="medium"/></a>
 
+ </div>
