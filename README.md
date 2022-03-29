@@ -69,7 +69,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drajnarayana&layout=compact&theme=vue&hide_border=true" />
 
 
-
+ </div>
 
 
 <h2> Connect with me  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h2>
@@ -79,4 +79,4 @@
 <a href="https://codesandbox.io/u/drajnarayana"><img height="50px" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg"/></a>
 <a href="https://medium.com/@drajnarayana"><img  height="50px" width="50px" src="https://play-lh.googleusercontent.com/hB9t3Z-mi284_49HA3nAuhO-W5Cyhje7r2P9McdgORoVCd-0SV54c12NMQWLHnqALw" alt="medium"/></a>
 
- </div>
+
