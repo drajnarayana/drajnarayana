@@ -19,9 +19,6 @@
 <!-- - 🎯 Full Stack Web Developer -->
 <br>
 
-- 🌱 Learning the **MERN Stack** and **Data Structures & Algorithms** at **Masai School**
--  💬 Talk to me about Javascript , React , Algorithms 
-<hr/>
 
 <!-- ### Languages
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -61,6 +58,10 @@
 <a href= https://github.com/drajnarayana?tab=repositories&q=&type=&language=css&sort= > <img height="32px" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/npm.svg'> </a>
 <a href= https://github.com/drajnarayana?tab=repositories&q=&type=&language=css&sort= > <img height="35px" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
 
+  
+  
+  
+  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=drajnarayana&show_icons=true)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=drajnarayana)
